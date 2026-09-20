@@ -5,6 +5,7 @@
 <p align="center">currently healing 🩹</p>
 <p align="center">check my <ins>carrd</ins> to learn more about me!!</p>
 
+![image alt](https://github.com/olisekitty/dump/blob/main/graph.png?raw=true)
 
 
 
