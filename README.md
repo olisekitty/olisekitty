@@ -1,5 +1,12 @@
 ![image alt](https://github.com/olisekitty/dump/blob/main/graphic.png?raw=true)
 
+# <p align="center">call me yana @ anything else!</p>
+<p align="center">⤷ 8.30 ~ 6teen+ ~ POC</p>
+<p align="center">currently healing 🩹</p>
+<p align="center">check my <ins>carrd</ins> to learn more about me!!/p>
+
+
+
 
 
 <!--
