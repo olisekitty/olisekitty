@@ -1,3 +1,17 @@
+<p align="center">
+  rmking my readme, check these links in the meantime.<br><br>
+  <a href="https://olisekitty.straw.page/"><u>strawpage</u></a> &nbsp;
+  <a href="https://discord.com/users/790158854188302346"><u>discord</u></a> &nbsp;
+  <a href="https://guns.lol/olisekittyy"><u>gunslol</u></a> &nbsp;
+  <a href="https://olisekitty.carrd.co/"><u>carrd</u></a> &nbsp;
+  <a href="https://olisekitty.atabook.org/"><u>atabook</u></a>
+</p>
+
+
+
+
+<!--
+
 ![image alt](https://github.com/olisekitty/dump/blob/main/graphic.png?raw=true)
 
 # <p align="center">call me yana @ anything else!</p>
@@ -20,7 +34,7 @@
 
 
 
-<!--
+
 **olisekitty/olisekitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
