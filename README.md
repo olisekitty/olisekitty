@@ -5,7 +5,7 @@
   <a href="https://guns.lol/olisekittyy"><u>gunslol</u></a> &nbsp;
   <a href="https://olisekitty.carrd.co/"><u>carrd</u></a> &nbsp;
   <a href="https://olisekitty.atabook.org/"><u>atabook</u></a>
-</p>
+
 
 
 
